@@ -55,10 +55,6 @@ You can modify the following variables in the script:
 - `subreddits`: List of subreddits to scrape
 - `ideas_per_subreddit`: Number of unique ideas to generate per subreddit
 
-## License
-
-[MIT License](LICENSE)
-
 ## Disclaimer
 
 This script is for educational purposes only. Make sure to comply with Reddit's API terms of service when using this script.
